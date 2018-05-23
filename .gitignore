@@ -1,0 +1,7 @@
+# Java class files
+*.class
+
+# Eclipse config files
+.classpath
+.project
+*.prefs
