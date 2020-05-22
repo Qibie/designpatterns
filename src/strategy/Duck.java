@@ -1,5 +1,8 @@
 package strategy;
 
+import strategy.behavior.FlyBehavior;
+import strategy.behavior.QuackBehavior;
+
 /**
  * Abstract Duck class
  * 

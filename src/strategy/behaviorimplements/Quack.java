@@ -1,4 +1,6 @@
-package strategy;
+package strategy.behaviorimplements;
+
+import strategy.behavior.QuackBehavior;
 
 /**
  * @author qibie

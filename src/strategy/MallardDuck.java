@@ -1,5 +1,8 @@
 package strategy;
 
+import strategy.behaviorimplements.FlyWings;
+import strategy.behaviorimplements.Quack;
+
 /**
  * @author qibie
  * @date 2020/05/22
